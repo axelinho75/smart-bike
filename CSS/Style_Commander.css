@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(208,201,200);
+}
+
+form{
+    text-align: center;
+    border: 3px solid rgb( 144, 148, 151 );
+    width: 350;
+    margin-left: 38%;
+    padding: 10px;
+}
+
+.choix-velo{
+    width: 200;
+    height: 40;
+}
+
+.sous-titre{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nom{
+    background-color: rgb(247, 243, 242);
+    border: 1px solid rgb(130, 205, 16);
+}
+
+button{
+    background-color: rgb(130, 205, 16);
+    width: 100px;
+    height: 40px;
+}
+
+
+button:hover{
+    background-color: rgb(115, 180, 14);
+    color: white;
+}

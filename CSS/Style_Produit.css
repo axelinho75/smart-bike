@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(208,201,200);
+}
+
+.Produits{
+    text-align: center;
+}
+
+.Produits div{
+    display: inline-block;
+}
+
+.space{
+    margin-right: 80px;
+}
+
+.binfo{
+    width: 280px;
+    color: white;
+    background-color: rgb( 144, 148, 151 );
+    margin-top: 5px;
+}
+
+.binfo:hover{
+    background-color: rgb( 98, 101, 103 );
+}
+
+.bajt{
+    width: 280px;
+    color: white;
+    background-color: rgb(  130, 205, 16);
+    margin-top: 5px;
+}
+
+.bajt:hover{
+    background-color: rgb( 115, 180, 14);
+}
+
+

@@ -1,0 +1,45 @@
+.menu{
+    list-style-type: none;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb( 144, 148, 151 );
+}
+
+.menu li{
+    display: inline;
+}
+
+.menu li a{
+    padding: 5px;
+    text-decoration: none; 
+    color: black;
+    background-color: rgb( 144, 148, 151 );
+}
+
+.menu li a:hover
+{
+    background-color: rgb( 98, 101, 103 );
+}
+
+h1{
+    display: block;
+    text-align: center;
+}
+
+h1 a{
+    color: black;
+    text-decoration: none;
+}
+
+.logo{
+    display: block;
+    margin: auto;
+}
+
+.panier{
+    float:right;
+}
+
+.compte{
+    float: left;
+}
